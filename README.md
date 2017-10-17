@@ -1,10 +1,9 @@
 # results-scraper
 
-FIXME: description
+This is an app to scrape the results from a race for a particular cohort of runners.
 
 ## Installation
 
-Download from http://example.com/FIXME.
 
 ## Usage
 
